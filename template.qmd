@@ -1,0 +1,37 @@
+---
+title: Title
+subtitle: Subtitle
+author: Author Name
+date: last-modified
+date-format: long
+format:
+  zealotjs-revealjs:
+    incremental: true
+    touch: true
+    controls: true
+    smaller: true
+    margin: 0.3
+    slide-number: true
+    show-slide-number: print
+    footnotes-hover: true
+    embed-resources: true
+    footnotes-hover: true
+    reference-location: document
+bibliography: references.bib
+---
+
+## Admin
+
+
+## Overview
+
+
+## slide
+
+
+## slide
+
+
+## References
+
+

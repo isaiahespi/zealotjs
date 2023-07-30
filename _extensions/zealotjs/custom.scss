@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+
+/* TODO: Customize presentation appearance by setting SCSS variables */
+/* See https://quarto.org/docs/presentations/revealjs/themes.html#customizing-themes */
+
+// fonts
+$font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+
+// colors
+$body-bg: #0c2440 !default;
+$body-color: #f3dbbf !default;
+$link-color: #e7ad52 !default;
+$selection-bg: #e7ad52 !default;
+$input-panel-bg: rgba(233, 236, 239, 0.2) !default;
+
+// headings
+$presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: #f3dbbf !default;
+
+// code blocks
+$code-block-border-color: rgba(233, 236, 239, 0.5) !default;
+
+
+/*-- scss:rules --*/
+
+.red{
+  color: #ff7a7a;
+  font-weight: bold;
+}
+
+.blue{
+  color: #7ad9ff;
+  font-weight: bold;
+}
+
+.yellow{
+  color: #f7f300;
+  font-weight: bold;
+}
+
+.highlight{
+  color: #e7ad52;
+  font-weight: bold;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
